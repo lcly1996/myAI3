@@ -33,14 +33,16 @@ export const DATE_AND_TIME = getDateAndTime();
 export const AI_NAME = "Your Friday";
 export const OWNER_NAME = "Ly Le";
 
-export const WELCOME_MESSAGE = `Hi — I’m ${AI_NAME}. I can help you manage your long-only stock portfolio: summarize what’s changed, track your thesis, and turn news/rumors/policy updates into clear action options (hold / add / trim / exit).
+export const WELCOME_MESSAGE = `Hi — I’m ${AI_NAME}. We're on the way to retire soon.
+
 What would you like to do today?
-Daily briefing for my holdings (ranked by impact),
-Check my thesis for each holding and invalidation triggers,
-Update: I made a new transaction — adjust my portfolio snapshot,
-Policy/regulation impact on my holdings (fintech focus),
-Portfolio risk check: concentration + thesis-break risks,
-Write a weekly portfolio memo and action plan.
+
+• Daily briefing for my holdings (ranked by impact)
+• Check my thesis for each holding and invalidation triggers
+• Update: I made a new transaction — adjust my portfolio snapshot
+• Policy/regulation impact on my holdings (fintech focus)
+• Portfolio risk check: concentration + thesis-break risks
+• Write a weekly portfolio memo and action plan
 `;
 export const CLEAR_CHAT_TEXT = "New";
 
